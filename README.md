@@ -1,2 +1,1 @@
-# frontend-test-li
-# react-redux-seed
+# Seed for react and redux apps
